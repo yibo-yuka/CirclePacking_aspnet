@@ -1,0 +1,57 @@
+# Visual Studio generated
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+Log/
+
+# NuGet Packages
+packages/
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+# nuget.exe install Solution.sln -o packages
+
+# Web Server
+_PublishedWebsites/
+*.publishproj
+*.pubxml
+
+# Other
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ncb
+*.orig
+*.ilk
+*.pdb
+*.exp
+*.bak
+*.cache
+*.sdf
+*.tmp
+
+# User-specific files
+*.vs
+.vscode/
+
+# Environment-specific files
+Web.Debug.config
+Web.Release.config
+# Keep the base Web.config
+# If you have sensitive information in Web.config, consider using appSettings with a separate, ignored file.
+
+# IDE specific files
+.idea/
